@@ -1,0 +1,6 @@
+C:\MyArea\TestProj\TeamCity\TestTeamCity\bin\Debug\TestTeamCity.dll
+C:\MyArea\TestProj\TeamCity\TestTeamCity\bin\Debug\TestTeamCity.pdb
+C:\MyArea\TestProj\TeamCity\TestTeamCity\obj\Debug\TestTeamCity.csprojResolveAssemblyReference.cache
+C:\MyArea\TestProj\TeamCity\TestTeamCity\obj\Debug\TestTeamCity.csproj.CoreCompileInputs.cache
+C:\MyArea\TestProj\TeamCity\TestTeamCity\obj\Debug\TestTeamCity.dll
+C:\MyArea\TestProj\TeamCity\TestTeamCity\obj\Debug\TestTeamCity.pdb

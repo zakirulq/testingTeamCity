@@ -1,0 +1,11 @@
+C:\MyArea\TestProj\TeamCity\UnitTest.TeamCity\bin\Debug\UnitTest.TeamCity.dll.config
+C:\MyArea\TestProj\TeamCity\UnitTest.TeamCity\bin\Debug\UnitTest.TeamCity.dll
+C:\MyArea\TestProj\TeamCity\UnitTest.TeamCity\bin\Debug\UnitTest.TeamCity.pdb
+C:\MyArea\TestProj\TeamCity\UnitTest.TeamCity\bin\Debug\nunit.framework.dll
+C:\MyArea\TestProj\TeamCity\UnitTest.TeamCity\bin\Debug\TestTeamCity.dll
+C:\MyArea\TestProj\TeamCity\UnitTest.TeamCity\bin\Debug\TestTeamCity.pdb
+C:\MyArea\TestProj\TeamCity\UnitTest.TeamCity\bin\Debug\nunit.framework.xml
+C:\MyArea\TestProj\TeamCity\UnitTest.TeamCity\obj\Debug\UnitTest.TeamCity.csprojResolveAssemblyReference.cache
+C:\MyArea\TestProj\TeamCity\UnitTest.TeamCity\obj\Debug\UnitTest.TeamCity.csproj.CoreCompileInputs.cache
+C:\MyArea\TestProj\TeamCity\UnitTest.TeamCity\obj\Debug\UnitTest.TeamCity.dll
+C:\MyArea\TestProj\TeamCity\UnitTest.TeamCity\obj\Debug\UnitTest.TeamCity.pdb
